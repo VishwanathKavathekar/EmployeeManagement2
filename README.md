@@ -6,5 +6,9 @@ The above Project demonstrates the working of a simple Employee Management Syste
 4. Displaying Employee Data
 
 Collaborators:
-  1. Name:Vishwanath Kavathekar     USN: 2GI16IS023
-  2. Name:Anusha Puranikmath        USN: 2GI16IS007
+
+  1. Name:Vishwanath Kavathekar    
+     USN: 2GI16IS023
+ 
+  2. Name:Anusha Puranikmath   
+     USN: 2GI16IS007
