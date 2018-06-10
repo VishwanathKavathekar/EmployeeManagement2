@@ -9,15 +9,16 @@ import static employeemanagement2.employee.acc;
 import static employeemanagement2.employee.emp_id;
 
 /**
- *
- * @author user
+ * The class display is used to display the details of the employees by specifying their employee ID
+ * @author Anusha
+ * @author Vishwanath
  */
 public class display {
     
      public void display(int id)
     {
        
-      if(id<=emp_id)
+      if(id<emp_id)
         {
             System.out.println("Name:"+acc.get(id).name);
             System.out.println("Age:"+acc.get(id).age);
