@@ -10,8 +10,9 @@ import static employeemanagement2.employee.emp_id;
 import java.util.Scanner;
 
 /**
- *
- * @author user
+ * The class update is used to edit the information of the employees.
+ * @author Anusha
+ * @author Vishwanath
  */
 public class update {
 
