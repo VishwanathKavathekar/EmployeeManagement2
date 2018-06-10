@@ -6,8 +6,9 @@
 package employeemanagement2;
 
 /**
- *
- * @author user
+ * The class addemp is used to declare various parameters for creating the employee details
+ * @author Anusha
+ * @author Vishwanath
  */
 public class addemp {
    
@@ -24,6 +25,7 @@ public class addemp {
        this.salary=0;
     }
 
+   
 }
 
 
