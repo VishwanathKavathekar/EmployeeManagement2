@@ -10,7 +10,8 @@ import java.util.ArrayList;
 
 
 /**
- *
+ * The project, Employee Management System contains various operations like adding,delete,edit and display
+ * the employees working in a particular organization.
  * @author Anusha
  * @author Vishwanath
  */
@@ -20,9 +21,17 @@ class employee
     static ArrayList<addemp> acc = new ArrayList();
     static int emp_id=0;
     Scanner input = new Scanner(System.in);
-    
+    /**
+     * The function create_emp is used to add different employees by generating an employee id
+     * for each individual employee.
+     * @param name takes the name of the employee
+     * @param age takes the age of the employee
+     * @param salary takes the salary offered to the employee
+     * @param address takes the address of the employee
+     */
     public void creat_emp(String name, int age, double salary, String address)
     {  
+        
        addemp a = new addemp(); 
        a.name=name;
        a.age=age;
@@ -66,7 +75,9 @@ public class EmployeeManagement2 {
               
                 System.out.println("Enter address of the emplyee");
                  emp_address=input.next();
-      
+            /**
+             * Takes input of the following details and and send them to the creat_emp function
+             */
                 e.creat_emp(emp_name,emp_age,emp_salary,emp_address);
             break;
         
