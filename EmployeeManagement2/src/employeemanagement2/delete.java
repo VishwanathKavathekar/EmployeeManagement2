@@ -9,14 +9,16 @@ import static employeemanagement2.employee.acc;
 import java.util.Scanner;
 
 /**
- *
- * @author user
+ * The class delete is used to remove the employees.  
+ * @author Anusha
+ * @author Vishwanath
  */
 public class delete {
-     int emp_id=0;
+    int emp_id=0;
     Scanner input = new Scanner(System.in);
     
-    void delete(){
+    void delete()
+    {
      
         System.out.println("Enter the employee ID to be deleted:");
         emp_id=input.nextInt();
