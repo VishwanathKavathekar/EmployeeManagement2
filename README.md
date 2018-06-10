@@ -5,6 +5,6 @@ The above Project demonstrates the working of a simple Employee Management Syste
 3. Updating Employee Data
 4. Displaying Employee Data
 
-Collaborators: 
-        Name:Vishwanath Kavathekar     USN: 2GI16IS023
-        Name:Anusha Puranikmath        USN: 2GI16IS007
+Collaborators:
+  1. Name:Vishwanath Kavathekar     USN: 2GI16IS023
+  2. Name:Anusha Puranikmath        USN: 2GI16IS007
